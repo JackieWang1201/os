@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "THREAD.C": "cpp",
+        "SYNCH.C": "cpp",
+        "LIST.C": "cpp",
+        "INTERRUPT.C": "cpp",
+        "TIMER.C": "cpp",
+        "PROCESS.C": "cpp",
+        "SYSCALL.C": "cpp",
+        "INODE.C": "cpp",
+        "ENTRY.C": "cpp"
+    }
+}
